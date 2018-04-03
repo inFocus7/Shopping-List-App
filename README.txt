@@ -1,0 +1,1 @@
+unzip "app.7z" under the resources folder to get "app.asar"
